@@ -1,0 +1,112 @@
+<mxfile host="Electron" modified="2025-04-08T22:40:46.927Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.0.4 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="JajVksR6hl4xucvrmLrk" version="24.0.4" type="device">
+  <diagram name="Page-1" id="WXH63kzB5HC8cYzc-r9u">
+    <mxGraphModel dx="2537" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rczzJYTpHLbBexRffqMJ-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="30" width="250" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="rczzJYTpHLbBexRffqMJ-3" value="Vice Booking" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="92.5" y="130" width="157.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rczzJYTpHLbBexRffqMJ-4" value="Best prices to travel with great deals!" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-47.5" y="170" width="437.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rczzJYTpHLbBexRffqMJ-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rczzJYTpHLbBexRffqMJ-6" value="Login as admin" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="65" y="255" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rczzJYTpHLbBexRffqMJ-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rczzJYTpHLbBexRffqMJ-8" value="Login as supplier" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="65" y="305" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rczzJYTpHLbBexRffqMJ-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rczzJYTpHLbBexRffqMJ-10" value="Login as Customer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="57.5" y="355" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rczzJYTpHLbBexRffqMJ-11" value="Home Screen with login buttons" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="71.25" y="440" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rczzJYTpHLbBexRffqMJ-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="30" width="250" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="rczzJYTpHLbBexRffqMJ-13" value="Vice Booking" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="362.5" y="130" width="157.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rczzJYTpHLbBexRffqMJ-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="215" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rczzJYTpHLbBexRffqMJ-15" value="Featured Deals" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="220" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rczzJYTpHLbBexRffqMJ-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="265" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rczzJYTpHLbBexRffqMJ-17" value="Categories" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="385" y="270" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rczzJYTpHLbBexRffqMJ-20" value="Home Screen logged in as user (any role)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="326.88" y="440" width="228.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rczzJYTpHLbBexRffqMJ-21" value="Best prices to travel with great deals!" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="222.5" y="170" width="437.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rczzJYTpHLbBexRffqMJ-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474.38" y="350" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rczzJYTpHLbBexRffqMJ-23" value="Log out" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="463.13" y="355" width="92.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rczzJYTpHLbBexRffqMJ-25" value="Logged in as: test" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="383.75" y="50" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rczzJYTpHLbBexRffqMJ-26" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="30" width="250" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="rczzJYTpHLbBexRffqMJ-32" value="Categories Screen" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="596.88" y="440" width="228.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rczzJYTpHLbBexRffqMJ-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="665.94" y="355" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rczzJYTpHLbBexRffqMJ-34" value="Back" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="651.88" y="360" width="98.12" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rczzJYTpHLbBexRffqMJ-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="593.4399999999999" y="70" width="223.12" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="rczzJYTpHLbBexRffqMJ-38" value="Recycler View showing all categories" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="605.94" y="80" width="204.06" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="rczzJYTpHLbBexRffqMJ-46" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="490" width="250" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="rczzJYTpHLbBexRffqMJ-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="323.44" y="580" width="223.12" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="rczzJYTpHLbBexRffqMJ-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400.00000000000006" y="930" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rczzJYTpHLbBexRffqMJ-49" value="Recycler View showing all featured deals" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="337.19000000000005" y="610" width="204.06" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="rczzJYTpHLbBexRffqMJ-50" value="Featured Deals" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="346.1" y="500" width="183.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rczzJYTpHLbBexRffqMJ-52" value="Back" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="385.94" y="935" width="98.12" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rczzJYTpHLbBexRffqMJ-53" value="Search Categories" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="332.5" y="540" width="208.75" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

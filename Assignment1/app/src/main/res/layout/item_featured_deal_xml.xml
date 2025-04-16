@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    android:orientation="horizontal"
+    app:cardCornerRadius="16dp"
+    app:cardElevation="4dp"
+    android:background="#02FAFA"
+    android:textColor="#F80254">
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="87dp"
+        android:layout_margin="8dp"
+        android:orientation="horizontal"
+        app:cardCornerRadius="16dp"
+        app:cardElevation="4dp"
+        android:background="#02FAFA"
+        android:textColor="#F80254">
+
+
+        <TextView
+            android:id="@+id/dealCategory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Category"
+            android:textColor="#F80254"
+            android:textSize="18sp"
+
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.501"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/dealDescription"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="Description"
+            android:textColor="#F80254"
+
+            android:textSize="14sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/dealCategory" />
+
+        <TextView
+            android:id="@+id/dealPrice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="Price"
+            android:textColor="#F80254"
+
+            android:textSize="16sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/dealDescription" />
+
+
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="66dp"
+            android:layout_height="65dp"
+            android:contentDescription="Icon"
+            android:src="@drawable/backgroundassignment1"
+            tools:layout_editor_absoluteX="27dp"
+            tools:layout_editor_absoluteY="11dp"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/c_name"
+            android:layout_width="0dp"
+            android:layout_height="70dp"
+            android:layout_margin="6dp"
+            android:text="Name"
+            android:textColor="#F80254"
+
+            android:textSize="25sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/dealPrice" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.cardview.widget.CardView>
